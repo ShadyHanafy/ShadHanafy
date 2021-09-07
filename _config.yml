@@ -4,10 +4,10 @@ title: "ShadHanafy"
 description: "Seattle Airbnb Data Analysis"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: ''
-google_analytics: ''
-disqus: ''
-mailchimp-list: ''
+baseurl: /
+google_analytics:
+disqus: /
+mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
 email: shad@gmail.com
